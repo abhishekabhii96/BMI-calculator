@@ -1,0 +1,13 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+  font-family: "Lilita One", sans-serif;
+}
+body{
+  background: url(https://img.freepik.com/premium-photo/running-man-vibrant-orange-background_961875-127640.jpg?w=900);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
